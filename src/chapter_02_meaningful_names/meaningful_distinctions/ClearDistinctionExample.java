@@ -2,7 +2,6 @@ package chapter_02_meaningful_names.meaningful_distinctions;
 
 public class ClearDistinctionExample {
     public static void main(String[] args) {
-
         int productSellingPrice = 100;
         int productManufacturingCost = 70;
         int productShippingCost = 15;

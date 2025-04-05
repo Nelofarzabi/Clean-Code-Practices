@@ -4,6 +4,7 @@ public class BadVariableNamingExample {
     public static void main(String[] args) {
         int x = 365;
         int y = 200;
+
         int z = x * y;
 
         System.out.println("Result: " + z);
