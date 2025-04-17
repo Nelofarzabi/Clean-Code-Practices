@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="your-project" />
+        <module name="Clean-Code-Practices" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="your-project" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
